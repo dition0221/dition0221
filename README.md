@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dition0221&repo=Clone_Coding_Portfolio&theme=dark&hide_border=true)](https://github.com/dition0221/Clone_Coding_Portfolio)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dition0221&repo=Clone_Coding_Portfolio&theme=dark&hide_border=true)](https://github.com/dition0221/Clone_Coding_Portfolio) -->
 
 [![dition0221's GitHub stats](https://github-readme-stats.vercel.app/api?username=dition0221&hide=prs&count_private=true&include_all_commits=true&theme=dark&hide_border=false)](https://github.com/dition0221)
 
