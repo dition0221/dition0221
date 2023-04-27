@@ -4,6 +4,8 @@
 
 [![dition0221's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dition0221&v=2&theme=merko&layout=compact)](https://github.com/dition0221)
 
+[![wakatime](https://wakatime.com/badge/user/8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55.svg)](https://wakatime.com/@8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55)
+
 <!--
 **dition0221/dition0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
