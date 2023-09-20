@@ -55,6 +55,7 @@
   <div>
   <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
   <img src="https://img.shields.io/badge/react&dash;beautiful&dash;dnd-0BAF7C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer&dash;Motion-d0e?style=flat-square&logo=framer&logoColor=white"/>
   </div>
 </div>
 <div align="center">
