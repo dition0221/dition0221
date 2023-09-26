@@ -1,10 +1,12 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dition0221&repo=Clone_Coding_Portfolio&theme=dark&hide_border=true)](https://github.com/dition0221/Clone_Coding_Portfolio) -->
-
-[![dition0221's GitHub stats](https://github-readme-stats.vercel.app/api?username=dition0221&hide=prs&count_private=true&include_all_commits=true&theme=dark&hide_border=false)](https://github.com/dition0221)
-
-[![dition0221's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dition0221&v=2&theme=merko&layout=compact)](https://github.com/dition0221)
-
-[![wakatime](https://wakatime.com/badge/user/8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55.svg)](https://wakatime.com/@8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55)
+<div align="center">
+  
+  [![dition0221's GitHub stats](https://github-readme-stats.vercel.app/api?username=dition0221&hide=prs&count_private=true&include_all_commits=true&theme=dark&hide_border=false)](https://github.com/dition0221)
+  
+  [![dition0221's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dition0221&v=2&theme=merko&layout=compact)](https://github.com/dition0221)
+  
+  [![wakatime](https://wakatime.com/badge/user/8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55.svg)](https://wakatime.com/@8c7c2f72-e0e8-4ec6-b9a6-681ef4544e55)
+</div>
 
 <div align="center">
   <h3>My Stack</h3>
@@ -24,12 +26,9 @@
   </div>
   <div>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  </div>
-  <div>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   </div>
 </div>
