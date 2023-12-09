@@ -66,6 +66,7 @@
   <h3>Now Studying Stack</h3>
   <div>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   </div>
 </div>
 <div align="center">
