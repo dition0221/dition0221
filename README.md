@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   </div>
 </div>
 <div align="center">
@@ -49,16 +50,22 @@
 </div>
 <div align="center">
   <h3>Deploy</h3>
+  <div>
   <img src="https://img.shields.io/badge/MongoDB Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fly.io-8b5cf6?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/gh pages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
+  </div>
+  <div>
+  <img src="https://img.shields.io/badge/Firebase &dash; Auth, DB, Stroage-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  </div>
 </div>
 <div align="center">
   <h3>Now Studying Stack</h3>
   <div>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   </div>
 </div>
 <div align="center">
