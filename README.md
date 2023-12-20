@@ -44,8 +44,9 @@
   <img src="https://img.shields.io/badge/react&dash;beautiful&dash;dnd-0BAF7C?style=flat-square&logoColor=white"/>
   </div>
   <div>
-  <img src="https://img.shields.io/badge/Framer&dash;Motion-d0e?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer&dash;Motion-05f?style=flat-square&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   </div>
 </div>
 <div align="center">
@@ -66,7 +67,6 @@
   <h3>Now Studying Stack</h3>
   <div>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   </div>
 </div>
 <div align="center">
