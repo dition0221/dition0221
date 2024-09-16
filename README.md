@@ -30,7 +30,7 @@
   </div>
 </div>
 <div align="center">
-  <h3>My React Stack</h3>
+  <h3>React.js Stack</h3>
   <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -50,6 +50,19 @@
   </div>
 </div>
 <div align="center">
+  <h3>Next.js Stack</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/PlanetScale-000?style=flat-square&logo=planetscale&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iron&dash;session-18303d?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SWR-000?style=flat-square&logo=swr&logoColor=white"/>
+  </div>
+</div>
+<div align="center">
   <h3>Deploy</h3>
   <div>
   <img src="https://img.shields.io/badge/MongoDB Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -64,17 +77,9 @@
   </div>
 </div>
 <div align="center">
-  <h3>Now Studying Stack</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/PlanetScale-000?style=flat-square&logo=planetscale&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iron&dash;session-18303d?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SWR-000?style=flat-square&logo=swr&logoColor=white"/>
-  </div>
+  <h3>.. Now Studying Stack ..</h3>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 </div>
 <div align="center">
   <h3>Past Experienced Stack</h3>
